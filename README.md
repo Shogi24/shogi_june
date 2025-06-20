@@ -15,7 +15,9 @@ step 3: git add <file_name>          #ex: detect.py
 
 step 4: git commit -m "<message>"    #ex: file added
 
-step 5: git push origin <branch>     #ex: main
+step 5: git push -u origin <branch>     #ex: sanjay
+
+#default git push origin main
 
 -----------------------------------------------------------------------------------------
 
