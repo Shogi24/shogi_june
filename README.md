@@ -15,9 +15,9 @@ step 3: git checkout <branch_name>   #ex: sanjay
 
 step 4: git add .         
 
-step 5: git commit -m "<message>"    #ex: file added
+step 5: git commit -m "<delivery_message>"    #ex: file added
 
-step 6: git push -u origin <branch>     #ex: sanjay
+step 6: git push -u origin <branch_name>     #ex: sanjay
 
 -----------------------------------------------------------------------------------------
 
@@ -31,6 +31,6 @@ step 3: git pull
 
 -------------------------------------------------------------------------------------------
 
-git checkout <branch>   #ex: sanjay
+git checkout <branch_name>   #ex: sanjay
 
 -------------------------------------------------------------------------------------------
