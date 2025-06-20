@@ -5,10 +5,10 @@ import shogi
 from collections import defaultdict
 
 # --- Load YOLOv8 Model ---
-model = YOLO("best.pt")  # Your trained Shogi piece detection model
+model = YOLO("polyk (b2-100).pt")  # Your trained Shogi piece detection model
 
 # --- Load and Process the Image ---
-image_path = "shogi_board.jpg"
+image_path = "sample.jpg"
 img = cv2.imread(image_path)
 results = model(img)[0]
 
