@@ -11,7 +11,7 @@ step 2: cd shogi_june
 
 #optional step : git status
 
-step 3: git checkout -b <branch_name>   #ex: sanjay
+step 3: git checkout <branch_name>   #ex: sanjay
 
 step 4: git add .         
 
@@ -31,6 +31,6 @@ step 3: git pull
 
 -------------------------------------------------------------------------------------------
 
-git checkout main
+git checkout <branch>   #ex: sanjay
 
 -------------------------------------------------------------------------------------------
