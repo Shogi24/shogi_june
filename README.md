@@ -9,8 +9,6 @@ step 1: git clone https://github.com/Shogi24/shogi_june.git
 
 step 2: cd shogi_june
 
-#optional step : git status
-
 step 3: git checkout <branch_name>   #ex: sanjay
 
 step 4: git add .         
@@ -32,5 +30,9 @@ step 3: git pull
 -------------------------------------------------------------------------------------------
 
 git checkout <branch_name>   #ex: sanjay
+
+git status
+
+git branch
 
 -------------------------------------------------------------------------------------------
