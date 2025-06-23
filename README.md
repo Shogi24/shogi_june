@@ -3,7 +3,7 @@ This repository is created to maintain the codes and prerequsite files of shogi 
 
 -----------------------------------------------------------------------------------------
 
-#steps to push VS code to git
+# steps to push VS code to git
 
 step 1: git clone https://github.com/Shogi24/shogi_june.git
 
@@ -19,7 +19,7 @@ step 6: git push -u origin <branch_name>     #ex: sanjay
 
 -----------------------------------------------------------------------------------------
 
-#steps to pull git to VS code
+# steps to pull git to VS code
 
 step 1: git clone https://github.com/Shogi24/shogi_june.git
 
@@ -28,6 +28,8 @@ step 2: cd shogi_june
 step 3: git pull 
 
 -------------------------------------------------------------------------------------------
+
+# other commands
 
 git checkout <branch_name>   #ex: sanjay
 
